@@ -38,7 +38,7 @@ export class Plataforma
 
     preload() {
         // Carregar a imagem da plataforma
-        this.cenario.load.spritesheet("Porta" , "assets/porta.png", { frameWidth: 48, frameHeight: 48 });
+        this.cenario.load.spritesheet("Porta" , "assets/Porta.png", { frameWidth: 48, frameHeight: 48 });
     }
 
     create(x, y) 
